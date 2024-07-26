@@ -29,7 +29,7 @@ input[type="text"], select {
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 4px;
-    width: calc(100% - 22px); /* Adjust for padding and border */
+    width: calc(100% - 22px); 
     box-sizing: border-box;
 }
 
